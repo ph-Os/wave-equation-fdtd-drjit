@@ -1,4 +1,4 @@
-# fdtd-drjit-notes
+# wave-equation-fdtd-drjit
 
 Companion code and notebooks for my blog series on FDTD wave simulation for room acoustics.
 
