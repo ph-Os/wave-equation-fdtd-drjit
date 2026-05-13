@@ -1,4 +1,4 @@
-# Wave-Based Room Acoustics
+# fdtd-drjit-notes
 
 Companion code and notebooks for my blog series on FDTD wave simulation for room acoustics.
 
